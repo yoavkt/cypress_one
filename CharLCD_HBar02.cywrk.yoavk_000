@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>CharLCD_HBar02</v>
+<v>CharLCD_HBar02\CharLCD_HBar02</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\TopDesign.cysch</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\CharLCD_HBar02.cydwr</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Header Files</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Header Files\device.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Source Files</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Source Files\main.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\CyBootAsmKeil.a51</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\CyDmac.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\CyDmac.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\CyFlash.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\CyFlash.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\CyLib.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\CyLib.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\cymem.a51</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\cypins.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\cyPm.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\cyPm.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\CySpc.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\CySpc.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\cytypes.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\cyutils.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\KeilStart.a51</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\PSoC3_8051.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\PSoC3_8051.inc</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\LCD</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\LCD\LCD.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\LCD\LCD.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\LCD\LCD_BarGraph.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\LCD\LCD_PM.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\LCD_LCDPort</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\LCD_LCDPort\LCD_LCDPort.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\LCD_LCDPort\LCD_LCDPort.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\LCD_LCDPort\LCD_LCDPort_aliases.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cydevice.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cydevice_trm.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cydevicekeil.inc</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cydevicekeil_trm.inc</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cyfitter.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cyfitter_cfg.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cyfitter_cfg.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cyfitterkeil.inc</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\project.h</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>CharLCD_HBar02</v>
+<v>CharLCD_HBar02\CharLCD_HBar02</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\TopDesign.cysch</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\CharLCD_HBar02.cydwr</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Header Files</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Header Files\device.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Source Files</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Source Files\main.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\CyBootAsmKeil.a51</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\CyDmac.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\CyDmac.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\CyFlash.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\CyFlash.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\CyLib.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\CyLib.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\cymem.a51</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\cypins.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\cyPm.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\cyPm.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\CySpc.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\CySpc.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\cytypes.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\cyutils.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\KeilStart.a51</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\PSoC3_8051.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\cy_boot\PSoC3_8051.inc</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\LCD</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\LCD\LCD.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\LCD\LCD.h</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\LCD\LCD_BarGraph.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\LCD\LCD_PM.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\LCD_LCDPort</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\LCD_LCDPort\LCD_LCDPort.c</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\Generated_Source\PSoC3\LCD_LCDPort\LCD_LCDPort.h</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>CharLCD_HBar02</v>
+<v>CharLCD_HBar02\CharLCD_HBar02</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\TopDesign</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>CharLCD_HBar02</v>
+<v>CharLCD_HBar02\CharLCD_HBar02</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\TopDesign</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>CharLCD_HBar02</v>
+<v>CharLCD_HBar02\CharLCD_HBar02</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903\Debug</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903\Debug\Listing Files</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903\Debug\Listing Files\CyBootAsmKeil.lst</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903\Debug\Listing Files\CyDmac.lst</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903\Debug\Listing Files\CyFlash.lst</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903\Debug\Listing Files\CyLib.lst</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903\Debug\Listing Files\cymem.lst</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903\Debug\Listing Files\cyPm.lst</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903\Debug\Listing Files\CySpc.lst</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903\Debug\Listing Files\cyutils.lst</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903\Debug\Listing Files\KeilStart.lst</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903\Debug\Listing Files\LCD.lst</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903\Debug\Listing Files\LCD_BarGraph.lst</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903\Debug\Listing Files\LCD_LCDPort.lst</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903\Debug\Listing Files\LCD_PM.lst</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903\Debug\Listing Files\main.lst</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903\Debug\CharLCD_HBar02.elf</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903\Debug\CharLCD_HBar02.hex</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\DP8051\DP8051_Keil_903\Debug\CharLCD_HBar02.map</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\CharLCD_HBar02.rpt</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\CharLCD_HBar02_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>CharLCD_HBar02</v>
+<v>CharLCD_HBar02\CharLCD_HBar02</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\CharLCD_HBar02.rpt</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\CharLCD_HBar02_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>CharLCD_HBar02</v>
+<v>CharLCD_HBar02\CharLCD_HBar02</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\PSoC 3 Architecture TRM</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\CY8C38 Family Datasheet</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\System Reference Guide v3_40</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\CharLCD_v1_90</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>CharLCD_HBar02</v>
+<v>CharLCD_HBar02\CharLCD_HBar02</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\PSoC 3 Architecture TRM</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\CY8C38 Family Datasheet</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\System Reference Guide v3_40</v>
+<v>CharLCD_HBar02\CharLCD_HBar02\CharLCD_v1_90</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\CharLCD_HBar02.cydsn\TopDesign\TopDesign.cysch" />
+</OpenDocs>
+<config v="" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
