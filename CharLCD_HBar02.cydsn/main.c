@@ -90,7 +90,7 @@ void main()
     }
     
     /* Wait for some time */
-    CyDelay(500u);
+    CyDelay(1000u);
     
     /* Output demo completion message */
     LCD_Position(0u, 0u);
